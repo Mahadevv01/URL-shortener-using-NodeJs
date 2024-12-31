@@ -1,4 +1,4 @@
-# USL Shortened Build
+# USL Shortened Build Using NodeJs
 
 A URL shortener application built using Node.js. This project allows users to shorten long URLs into concise, easily shareable links. It also provides functionality to manage and analyze shortened URLs.
 
